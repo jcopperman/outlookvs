@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlookAddInSubjectAndBody", "OutlookAddInSubjectAndBody\OutlookAddInSubjectAndBody.csproj", "{F748138A-BE4E-4D4C-B9EC-187E1277DACF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlookAddInSubjectAndBodyTests", "OutlookAddInSubjectAndBodyTests\OutlookAddInSubjectAndBodyTests.csproj", "{42647DF7-5821-4995-AD55-C361CE5CD4CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F748138A-BE4E-4D4C-B9EC-187E1277DACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F748138A-BE4E-4D4C-B9EC-187E1277DACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F748138A-BE4E-4D4C-B9EC-187E1277DACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F748138A-BE4E-4D4C-B9EC-187E1277DACF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42647DF7-5821-4995-AD55-C361CE5CD4CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42647DF7-5821-4995-AD55-C361CE5CD4CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42647DF7-5821-4995-AD55-C361CE5CD4CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42647DF7-5821-4995-AD55-C361CE5CD4CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
