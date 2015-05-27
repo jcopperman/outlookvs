@@ -56,7 +56,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="OutlookAdd_InInsertTextInEmailBodySteps.cs" />
+    <Compile Include="OutlookAddInInsertTextInEmailBodySteps.cs" />
     <Compile Include="OutlookAddInInsertTextInEmailSubjectSteps.cs" />
     <Compile Include="Specs\InsertedTextInSubject.feature.cs">
       <AutoGen>True</AutoGen>

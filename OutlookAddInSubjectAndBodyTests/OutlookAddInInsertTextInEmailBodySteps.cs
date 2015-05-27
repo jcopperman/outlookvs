@@ -4,7 +4,7 @@ using TechTalk.SpecFlow;
 namespace OutlookAddInSubjectAndBodyTests
 {
     [Binding]
-    public class OutlookAdd_InInsertTextInEmailBodySteps
+    public class OutlookAddInInsertTextInEmailBodySteps
     {
         [Then(@"the text ""(.*)"" is inserted into the email's body")]
 public void ThenTheTextIsInsertedIntoTheEmailSBody(string p0)
